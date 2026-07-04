@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohit00019/DSA/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/mohit00019/DSA/tree/master/0202-happy-number) |
 | [1512-number-of-good-pairs](https://github.com/mohit00019/DSA/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/mohit00019/DSA/tree/master/0202-happy-number) |
 | [1512-number-of-good-pairs](https://github.com/mohit00019/DSA/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/mohit00019/DSA/tree/master/0414-third-maximum-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/mohit00019/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
