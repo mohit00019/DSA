@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohit00019/DSA/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/mohit00019/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/mohit00019/DSA/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/mohit00019/DSA/tree/master/0414-third-maximum-number) |
 | [1470-shuffle-the-array](https://github.com/mohit00019/DSA/tree/master/1470-shuffle-the-array) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/mohit00019/DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/mohit00019/DSA/tree/master/0344-reverse-string) |
 | [0917-reverse-only-letters](https://github.com/mohit00019/DSA/tree/master/0917-reverse-only-letters) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mohit00019/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
