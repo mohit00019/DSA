@@ -14,10 +14,10 @@ class Solution {
         ListNode curr =  head;
 
         while(curr != null){
-            ListNode nextNode = curr.next;
-            curr.next = prev;
+            ListNode next = curr.next;
+            curr.next = prev;// Reverse link
             prev = curr;
-            curr = nextNode;
+            curr = next; // Move curr forward
         }
         return prev;
     }
