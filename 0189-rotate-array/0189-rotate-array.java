@@ -19,10 +19,16 @@ class Solution {
             nums[k - 1 - i] = temp;
         }
 
-        for (int i = k, j = nums.length - 1; i < j; i++, j--) {
-            int temp = nums[i];
-            nums[i] = nums[j];
-            nums[j] = temp;
-        }
+        int i = k;
+int j = nums.length - 1;
+
+while (i < j) {
+    int temp = nums[i];
+    nums[i] = nums[j];
+    nums[j] = temp;
+
+    i++;
+    j--;
+}
     }
 }
