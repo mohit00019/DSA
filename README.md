@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mohit00019/DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mohit00019/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/mohit00019/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0189-rotate-array](https://github.com/mohit00019/DSA/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/mohit00019/DSA/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/mohit00019/DSA/tree/master/0414-third-maximum-number) |
 | [1470-shuffle-the-array](https://github.com/mohit00019/DSA/tree/master/1470-shuffle-the-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/mohit00019/DSA/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/mohit00019/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mohit00019/DSA/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/mohit00019/DSA/tree/master/0292-nim-game) |
 | [1512-number-of-good-pairs](https://github.com/mohit00019/DSA/tree/master/1512-number-of-good-pairs) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mohit00019/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mohit00019/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohit00019/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/mohit00019/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mohit00019/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/mohit00019/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/mohit00019/DSA/tree/master/0344-reverse-string) |
