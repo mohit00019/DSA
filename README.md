@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mohit00019/DSA/tree/master/0202-happy-number) |
+| [0292-nim-game](https://github.com/mohit00019/DSA/tree/master/0292-nim-game) |
 | [1512-number-of-good-pairs](https://github.com/mohit00019/DSA/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -99,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0686-repeated-string-match](https://github.com/mohit00019/DSA/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/mohit00019/DSA/tree/master/0796-rotate-string) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mohit00019/DSA/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mohit00019/DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
