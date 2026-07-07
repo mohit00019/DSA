@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/mohit00019/DSA/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/mohit00019/DSA/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/mohit00019/DSA/tree/master/0292-nim-game) |
 | [1512-number-of-good-pairs](https://github.com/mohit00019/DSA/tree/master/1512-number-of-good-pairs) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mohit00019/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/mohit00019/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/mohit00019/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mohit00019/DSA/tree/master/0234-palindrome-linked-list) |
 ## Stack
