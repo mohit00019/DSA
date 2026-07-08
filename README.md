@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mohit00019/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/mohit00019/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/mohit00019/DSA/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/mohit00019/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mohit00019/DSA/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/mohit00019/DSA/tree/master/0414-third-maximum-number) |
 | [1470-shuffle-the-array](https://github.com/mohit00019/DSA/tree/master/1470-shuffle-the-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/mohit00019/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohit00019/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/mohit00019/DSA/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/mohit00019/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mohit00019/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mohit00019/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/mohit00019/DSA/tree/master/0290-word-pattern) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/mohit00019/DSA/tree/master/0292-nim-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/mohit00019/DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
