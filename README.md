@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mohit00019/DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mohit00019/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0054-spiral-matrix](https://github.com/mohit00019/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mohit00019/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/mohit00019/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/mohit00019/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mohit00019/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mohit00019/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/mohit00019/DSA/tree/master/0074-search-a-2d-matrix) |
 ## Recursion
@@ -134,5 +136,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mohit00019/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mohit00019/DSA/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
