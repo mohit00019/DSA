@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/mohit00019/DSA/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/mohit00019/DSA/tree/master/0292-nim-game) |
 | [1512-number-of-good-pairs](https://github.com/mohit00019/DSA/tree/master/1512-number-of-good-pairs) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/mohit00019/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting
 |  |
 | ------- |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/mohit00019/DSA/tree/master/0933-number-of-recent-calls) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/mohit00019/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
