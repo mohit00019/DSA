@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/mohit00019/DSA/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/mohit00019/DSA/tree/master/1512-number-of-good-pairs) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mohit00019/DSA/tree/master/2073-time-needed-to-buy-tickets) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohit00019/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/mohit00019/DSA/tree/master/0292-nim-game) |
 | [1512-number-of-good-pairs](https://github.com/mohit00019/DSA/tree/master/1512-number-of-good-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mohit00019/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohit00019/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mohit00019/DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/mohit00019/DSA/tree/master/0414-third-maximum-number) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mohit00019/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohit00019/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/mohit00019/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/mohit00019/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/mohit00019/DSA/tree/master/0917-reverse-only-letters) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohit00019/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/mohit00019/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mohit00019/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mohit00019/DSA/tree/master/2073-time-needed-to-buy-tickets) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohit00019/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
 | ------- |
@@ -167,4 +172,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mohit00019/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohit00019/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
