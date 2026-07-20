@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/mohit00019/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/mohit00019/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/mohit00019/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/mohit00019/DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/mohit00019/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mohit00019/DSA/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/mohit00019/DSA/tree/master/0292-nim-game) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohit00019/DSA/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/mohit00019/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/mohit00019/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/mohit00019/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mohit00019/DSA/tree/master/0242-valid-anagram) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/mohit00019/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mohit00019/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/mohit00019/DSA/tree/master/0067-add-binary) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mohit00019/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mohit00019/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohit00019/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -199,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mohit00019/DSA/tree/master/0100-same-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/mohit00019/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
