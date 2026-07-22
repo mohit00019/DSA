@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mohit00019/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mohit00019/DSA/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/mohit00019/DSA/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/mohit00019/DSA/tree/master/1025-divisor-game) |
 | [1512-number-of-good-pairs](https://github.com/mohit00019/DSA/tree/master/1512-number-of-good-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mohit00019/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohit00019/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -147,10 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/mohit00019/DSA/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/mohit00019/DSA/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/mohit00019/DSA/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/mohit00019/DSA/tree/master/1025-divisor-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/mohit00019/DSA/tree/master/0045-jump-game-ii) |
+| [1025-divisor-game](https://github.com/mohit00019/DSA/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
 | ------- |
