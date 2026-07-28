@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mohit00019/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mohit00019/DSA/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/mohit00019/DSA/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/mohit00019/DSA/tree/master/0412-fizz-buzz) |
 | [1025-divisor-game](https://github.com/mohit00019/DSA/tree/master/1025-divisor-game) |
 | [1512-number-of-good-pairs](https://github.com/mohit00019/DSA/tree/master/1512-number-of-good-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mohit00019/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/mohit00019/DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/mohit00019/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohit00019/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/mohit00019/DSA/tree/master/0412-fizz-buzz) |
 | [0686-repeated-string-match](https://github.com/mohit00019/DSA/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/mohit00019/DSA/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/mohit00019/DSA/tree/master/0917-reverse-only-letters) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/mohit00019/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mohit00019/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/mohit00019/DSA/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/mohit00019/DSA/tree/master/0412-fizz-buzz) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mohit00019/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mohit00019/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohit00019/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
