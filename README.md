@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohit00019/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mohit00019/DSA/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/mohit00019/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/mohit00019/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/mohit00019/DSA/tree/master/0112-path-sum) |
 ## Depth-First Search
@@ -233,12 +234,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mohit00019/DSA/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/mohit00019/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/mohit00019/DSA/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohit00019/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mohit00019/DSA/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/mohit00019/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/mohit00019/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/mohit00019/DSA/tree/master/0112-path-sum) |
 ## Bit Manipulation
