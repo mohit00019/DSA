@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/mohit00019/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mohit00019/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/mohit00019/DSA/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mohit00019/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/mohit00019/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mohit00019/DSA/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/mohit00019/DSA/tree/master/0414-third-maximum-number) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/mohit00019/DSA/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/mohit00019/DSA/tree/master/0147-insertion-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mohit00019/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/mohit00019/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mohit00019/DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/mohit00019/DSA/tree/master/0414-third-maximum-number) |
@@ -260,4 +262,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/mohit00019/DSA/tree/master/3310-remove-methods-from-project) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mohit00019/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mohit00019/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mohit00019/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
