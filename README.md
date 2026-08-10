@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/mohit00019/DSA/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/mohit00019/DSA/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/mohit00019/DSA/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/mohit00019/DSA/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mohit00019/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1470-shuffle-the-array](https://github.com/mohit00019/DSA/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/mohit00019/DSA/tree/master/1512-number-of-good-pairs) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mohit00019/DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/mohit00019/DSA/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/mohit00019/DSA/tree/master/0611-valid-triangle-number) |
+| [0912-sort-an-array](https://github.com/mohit00019/DSA/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mohit00019/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [3731-find-missing-elements](https://github.com/mohit00019/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohit00019/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -268,11 +270,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mohit00019/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohit00019/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/mohit00019/DSA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mohit00019/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohit00019/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/mohit00019/DSA/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -281,8 +285,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mohit00019/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/mohit00019/DSA/tree/master/0912-sort-an-array) |
 ## Tournament Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mohit00019/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mohit00019/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mohit00019/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mohit00019/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
