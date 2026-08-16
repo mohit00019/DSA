@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/mohit00019/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1470-shuffle-the-array](https://github.com/mohit00019/DSA/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/mohit00019/DSA/tree/master/1512-number-of-good-pairs) |
+| [2029-stone-game-ix](https://github.com/mohit00019/DSA/tree/master/2029-stone-game-ix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mohit00019/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [3046-split-the-array](https://github.com/mohit00019/DSA/tree/master/3046-split-the-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mohit00019/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/mohit00019/DSA/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/mohit00019/DSA/tree/master/1025-divisor-game) |
 | [1512-number-of-good-pairs](https://github.com/mohit00019/DSA/tree/master/1512-number-of-good-pairs) |
+| [2029-stone-game-ix](https://github.com/mohit00019/DSA/tree/master/2029-stone-game-ix) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mohit00019/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohit00019/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/mohit00019/DSA/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/mohit00019/DSA/tree/master/1512-number-of-good-pairs) |
+| [2029-stone-game-ix](https://github.com/mohit00019/DSA/tree/master/2029-stone-game-ix) |
 | [3046-split-the-array](https://github.com/mohit00019/DSA/tree/master/3046-split-the-array) |
 ## Sorting
 |  |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/mohit00019/DSA/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/mohit00019/DSA/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/mohit00019/DSA/tree/master/1025-divisor-game) |
+| [2029-stone-game-ix](https://github.com/mohit00019/DSA/tree/master/2029-stone-game-ix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/mohit00019/DSA/tree/master/0045-jump-game-ii) |
 | [0611-valid-triangle-number](https://github.com/mohit00019/DSA/tree/master/0611-valid-triangle-number) |
+| [2029-stone-game-ix](https://github.com/mohit00019/DSA/tree/master/2029-stone-game-ix) |
 ## Tree
 |  |
 | ------- |
@@ -316,8 +321,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/mohit00019/DSA/tree/master/0486-predict-the-winner) |
+| [2029-stone-game-ix](https://github.com/mohit00019/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/mohit00019/DSA/tree/master/0486-predict-the-winner) |
+| [2029-stone-game-ix](https://github.com/mohit00019/DSA/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/mohit00019/DSA/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
