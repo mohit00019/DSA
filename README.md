@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohit00019/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/mohit00019/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/mohit00019/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/mohit00019/DSA/tree/master/0125-valid-palindrome) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/mohit00019/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohit00019/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mohit00019/DSA/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohit00019/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mohit00019/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mohit00019/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/mohit00019/DSA/tree/master/0125-valid-palindrome) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohit00019/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/mohit00019/DSA/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/mohit00019/DSA/tree/master/0796-rotate-string) |
 ## Brainteaser
@@ -331,4 +334,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/mohit00019/DSA/tree/master/2029-stone-game-ix) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohit00019/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohit00019/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohit00019/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
