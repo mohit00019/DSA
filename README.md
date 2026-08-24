@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mohit00019/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mohit00019/DSA/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/mohit00019/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mohit00019/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/mohit00019/DSA/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/mohit00019/DSA/tree/master/0486-predict-the-winner) |
 | [0611-valid-triangle-number](https://github.com/mohit00019/DSA/tree/master/0611-valid-triangle-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mohit00019/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/mohit00019/DSA/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/mohit00019/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mohit00019/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1512-number-of-good-pairs](https://github.com/mohit00019/DSA/tree/master/1512-number-of-good-pairs) |
 | [3046-split-the-array](https://github.com/mohit00019/DSA/tree/master/3046-split-the-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohit00019/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mohit00019/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mohit00019/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mohit00019/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mohit00019/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/mohit00019/DSA/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/mohit00019/DSA/tree/master/0611-valid-triangle-number) |
 | [0912-sort-an-array](https://github.com/mohit00019/DSA/tree/master/0912-sort-an-array) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/mohit00019/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohit00019/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mohit00019/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mohit00019/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/mohit00019/DSA/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/mohit00019/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/mohit00019/DSA/tree/master/0917-reverse-only-letters) |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mohit00019/DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/mohit00019/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/mohit00019/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mohit00019/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/mohit00019/DSA/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/mohit00019/DSA/tree/master/0704-binary-search) |
 ## Linked List
