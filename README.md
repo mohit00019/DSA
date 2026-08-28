@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mohit00019/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/mohit00019/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mohit00019/DSA/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/mohit00019/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mohit00019/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mohit00019/DSA/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/mohit00019/DSA/tree/master/0292-nim-game) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohit00019/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/mohit00019/DSA/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/mohit00019/DSA/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/mohit00019/DSA/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/mohit00019/DSA/tree/master/1025-divisor-game) |
 ## Greedy
@@ -394,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohit00019/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mohit00019/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
