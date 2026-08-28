@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/mohit00019/DSA/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/mohit00019/DSA/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/mohit00019/DSA/tree/master/1025-divisor-game) |
+| [1323-maximum-69-number](https://github.com/mohit00019/DSA/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/mohit00019/DSA/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/mohit00019/DSA/tree/master/2029-stone-game-ix) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mohit00019/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/mohit00019/DSA/tree/master/0045-jump-game-ii) |
 | [0611-valid-triangle-number](https://github.com/mohit00019/DSA/tree/master/0611-valid-triangle-number) |
+| [1323-maximum-69-number](https://github.com/mohit00019/DSA/tree/master/1323-maximum-69-number) |
 | [2029-stone-game-ix](https://github.com/mohit00019/DSA/tree/master/2029-stone-game-ix) |
 ## Tree
 |  |
