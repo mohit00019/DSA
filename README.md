@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mohit00019/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mohit00019/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mohit00019/DSA/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/mohit00019/DSA/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/mohit00019/DSA/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/mohit00019/DSA/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/mohit00019/DSA/tree/master/0486-predict-the-winner) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/mohit00019/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/mohit00019/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/mohit00019/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/mohit00019/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/mohit00019/DSA/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/mohit00019/DSA/tree/master/0486-predict-the-winner) |
 ## Stack
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/mohit00019/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/mohit00019/DSA/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/mohit00019/DSA/tree/master/0231-power-of-two) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mohit00019/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Graph Theory
 |  |
