@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/mohit00019/DSA/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/mohit00019/DSA/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mohit00019/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/mohit00019/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1470-shuffle-the-array](https://github.com/mohit00019/DSA/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/mohit00019/DSA/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/mohit00019/DSA/tree/master/2029-stone-game-ix) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/mohit00019/DSA/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/mohit00019/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohit00019/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/mohit00019/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/mohit00019/DSA/tree/master/1512-number-of-good-pairs) |
 | [3046-split-the-array](https://github.com/mohit00019/DSA/tree/master/3046-split-the-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohit00019/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -421,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohit00019/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/mohit00019/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
