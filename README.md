@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/mohit00019/DSA/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/mohit00019/DSA/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/mohit00019/DSA/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/mohit00019/DSA/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/mohit00019/DSA/tree/master/1025-divisor-game) |
 | [1323-maximum-69-number](https://github.com/mohit00019/DSA/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/mohit00019/DSA/tree/master/1512-number-of-good-pairs) |
@@ -431,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohit00019/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/mohit00019/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
