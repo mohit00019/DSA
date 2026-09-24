@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/mohit00019/DSA/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/mohit00019/DSA/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/mohit00019/DSA/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/mohit00019/DSA/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/mohit00019/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/mohit00019/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/mohit00019/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mohit00019/DSA/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/mohit00019/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mohit00019/DSA/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/mohit00019/DSA/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohit00019/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -446,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/mohit00019/DSA/tree/master/0039-combination-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/mohit00019/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
