@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/mohit00019/DSA/tree/master/0486-predict-the-winner) |
 | [0611-valid-triangle-number](https://github.com/mohit00019/DSA/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/mohit00019/DSA/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/mohit00019/DSA/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/mohit00019/DSA/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mohit00019/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohit00019/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/mohit00019/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohit00019/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/mohit00019/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Geometry
